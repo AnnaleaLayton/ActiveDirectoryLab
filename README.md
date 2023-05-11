@@ -29,10 +29,16 @@ Creating a home lab and using active directroy to implemate over 1k users. Succe
 <h2>Walk-Through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set up Virtual machines - Windows 10 and Windows Server 2019 <br/>
+<img src="https://i.imgur.com/qmdE7iX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+
+<p align="center">
+Set up Virtual machines - Windows 10 and Windows Server 2019 <br/>
+<img src="https://i.imgur.com/qmdE7iX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
+ 
 <!--
  ```diff
 - text in red
