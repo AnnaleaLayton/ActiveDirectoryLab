@@ -3,7 +3,7 @@
  ### Setting up a Home lab for Future projects ##
 
 <h2>Description</h2>
-***PROJECT IN PROGRESS****
+Creating a home lab and using active directroy to implemate over 1k users. Succesfully implemited NAT/DHCP proticals to configure server configurations. Completed and implemented over 1000k personal user accounts using standard IPV4 firewall techniques. In conclusion, was able to set up a full active directroy and remote access server for personal lab experiments.
 
 <h2>Layout Example</h2>
 <p align="center">
