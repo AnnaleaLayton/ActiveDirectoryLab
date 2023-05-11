@@ -1,6 +1,6 @@
-<h1>Active Directory - Home Lab</h1>
+<h1>Setting Up Home Lab - Active Directory</h1>
 
- ### Setting up an active directory for my own use.
+ ### Setting up a Home lab for Future projects ##
 
 <h2>Description</h2>
 ***PROJECT IN PROGRESS****
